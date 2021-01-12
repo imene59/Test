@@ -1,0 +1,431 @@
+﻿group,variable,value
+1- Galaxy S9,FIND X2 NEO,0.0011
+1- Galaxy S9,Galaxy A41
+1- Galaxy S9,Galaxy Note 10 Lite
+1- Galaxy S9,Galaxy Note20,0.0075
+1- Galaxy S9,Galaxy Note20 5G,0.0064
+1- Galaxy S9,Galaxy Note20 Ultra 5G,0.0021
+1- Galaxy S9,Galaxy S10 128Go,0.0032
+1- Galaxy S9,Galaxy S20,0.0032
+1- Galaxy S9,Galaxy S20 5G,0.0075
+1- Galaxy S9,Galaxy S20 FE,0.0941
+1- Galaxy S9,Galaxy S20 FE 5G,0.0086
+1- Galaxy S9,Galaxy S20 Ultra 5G,0.0011
+1- Galaxy S9,Galaxy S20+,0.0032
+1- Galaxy S9,Galaxy S20+ 5G,0.0011
+1- Galaxy S9,Galaxy S8
+1- Galaxy S9,Galaxy Z Fold 2
+1- Galaxy S9,iPhone 11 128Go
+1- Galaxy S9,iPhone 11 64Go,0.0021
+1- Galaxy S9,iPhone 11 Pro 64Go
+1- Galaxy S9,iPhone 11 Pro Max 256Go
+1- Galaxy S9,iPhone 11 Pro Max 64Go,0.0021
+1- Galaxy S9,iPhone 12 128Go
+1- Galaxy S9,iPhone 12 64Go,0.0064
+1- Galaxy S9,iPhone 12 mini 128Go,0.0021
+1- Galaxy S9,iPhone 12 mini 64Go,0.0011
+1- Galaxy S9,iPhone 12 Pro 128Go
+1- Galaxy S9,iPhone 12 Pro 256Go
+1- Galaxy S9,iPhone 12 Pro Max 128Go
+1- Galaxy S9,iPhone 8 64Go
+1- Galaxy S9,iPhone SE 2020 64Go,0.0032
+1- Galaxy S9,iPhone XR 128Go,0.0011
+1- Galaxy S9,iPhone XR 64Go
+1- Galaxy S9,Mi 10
+1- Galaxy S9,MI 10 LITE
+1- Galaxy S9,Mi 10T
+1- Galaxy S9,Mi 10T Lite
+1- Galaxy S9,MI 10T PRO,0.0021
+1- Galaxy S9,P30
+1- Galaxy S9,P30 Pro 128Go,0.0043
+1- Galaxy S9,P40 lite 5G,0.0011
+1- Galaxy S9,P40 PRO
+1- Galaxy S9,Redmi Note 9
+1- Galaxy S9,Redmi Note 9 Pro
+2- iPhone XR 64Go,FIND X2 NEO
+2- iPhone XR 64Go,Galaxy A41
+2- iPhone XR 64Go,Galaxy Note 10 Lite
+2- iPhone XR 64Go,Galaxy Note20,0.0011
+2- iPhone XR 64Go,Galaxy Note20 5G
+2- iPhone XR 64Go,Galaxy Note20 Ultra 5G
+2- iPhone XR 64Go,Galaxy S10 128Go
+2- iPhone XR 64Go,Galaxy S20
+2- iPhone XR 64Go,Galaxy S20 5G
+2- iPhone XR 64Go,Galaxy S20 FE,0.0011
+2- iPhone XR 64Go,Galaxy S20 FE 5G
+2- iPhone XR 64Go,Galaxy S20 Ultra 5G,0.0011
+2- iPhone XR 64Go,Galaxy S20+
+2- iPhone XR 64Go,Galaxy S20+ 5G
+2- iPhone XR 64Go,Galaxy S8
+2- iPhone XR 64Go,Galaxy Z Fold 2
+2- iPhone XR 64Go,iPhone 11 128Go,0.0011
+2- iPhone XR 64Go,iPhone 11 64Go,0.0032
+2- iPhone XR 64Go,iPhone 11 Pro 64Go,0.0075
+2- iPhone XR 64Go,iPhone 11 Pro Max 256Go
+2- iPhone XR 64Go,iPhone 11 Pro Max 64Go,0.0032
+2- iPhone XR 64Go,iPhone 12 128Go,0.0053
+2- iPhone XR 64Go,iPhone 12 64Go,0.1144
+2- iPhone XR 64Go,iPhone 12 mini 128Go,0.0011
+2- iPhone XR 64Go,iPhone 12 mini 64Go,0.0139
+2- iPhone XR 64Go,iPhone 12 Pro 128Go
+2- iPhone XR 64Go,iPhone 12 Pro 256Go
+2- iPhone XR 64Go,iPhone 12 Pro Max 128Go,0.0032
+2- iPhone XR 64Go,iPhone 8 64Go
+2- iPhone XR 64Go,iPhone SE 2020 64Go,0.0011
+2- iPhone XR 64Go,iPhone XR 128Go
+2- iPhone XR 64Go,iPhone XR 64Go
+2- iPhone XR 64Go,Mi 10
+2- iPhone XR 64Go,MI 10 LITE
+2- iPhone XR 64Go,Mi 10T,0.0011
+2- iPhone XR 64Go,Mi 10T Lite
+2- iPhone XR 64Go,MI 10T PRO
+2- iPhone XR 64Go,P30
+2- iPhone XR 64Go,P30 Pro 128Go
+2- iPhone XR 64Go,P40 lite 5G
+2- iPhone XR 64Go,P40 PRO
+2- iPhone XR 64Go,Redmi Note 9
+2- iPhone XR 64Go,Redmi Note 9 Pro
+3- iPhone 7 32Go,FIND X2 NEO
+3- iPhone 7 32Go,Galaxy A41,0.0021
+3- iPhone 7 32Go,Galaxy Note 10 Lite
+3- iPhone 7 32Go,Galaxy Note20
+3- iPhone 7 32Go,Galaxy Note20 5G,0.0011
+3- iPhone 7 32Go,Galaxy Note20 Ultra 5G,0.0011
+3- iPhone 7 32Go,Galaxy S10 128Go
+3- iPhone 7 32Go,Galaxy S20
+3- iPhone 7 32Go,Galaxy S20 5G,0.0021
+3- iPhone 7 32Go,Galaxy S20 FE,0.0043
+3- iPhone 7 32Go,Galaxy S20 FE 5G,0.0011
+3- iPhone 7 32Go,Galaxy S20 Ultra 5G
+3- iPhone 7 32Go,Galaxy S20+,0.0011
+3- iPhone 7 32Go,Galaxy S20+ 5G
+3- iPhone 7 32Go,Galaxy S8
+3- iPhone 7 32Go,Galaxy Z Fold 2
+3- iPhone 7 32Go,iPhone 11 128Go,0.0032
+3- iPhone 7 32Go,iPhone 11 64Go,0.0096
+3- iPhone 7 32Go,iPhone 11 Pro 64Go,0.0053
+3- iPhone 7 32Go,iPhone 11 Pro Max 256Go,0.0011
+3- iPhone 7 32Go,iPhone 11 Pro Max 64Go
+3- iPhone 7 32Go,iPhone 12 128Go,0.0032
+3- iPhone 7 32Go,iPhone 12 64Go,0.0545
+3- iPhone 7 32Go,iPhone 12 mini 128Go
+3- iPhone 7 32Go,iPhone 12 mini 64Go,0.0225
+3- iPhone 7 32Go,iPhone 12 Pro 128Go
+3- iPhone 7 32Go,iPhone 12 Pro 256Go
+3- iPhone 7 32Go,iPhone 12 Pro Max 128Go,0.0021
+3- iPhone 7 32Go,iPhone 8 64Go,0.0011
+3- iPhone 7 32Go,iPhone SE 2020 64Go,0.0118
+3- iPhone 7 32Go,iPhone XR 128Go
+3- iPhone 7 32Go,iPhone XR 64Go,0.0011
+3- iPhone 7 32Go,Mi 10,0.0011
+3- iPhone 7 32Go,MI 10 LITE,0.0011
+3- iPhone 7 32Go,Mi 10T,0.0021
+3- iPhone 7 32Go,Mi 10T Lite,0.0011
+3- iPhone 7 32Go,MI 10T PRO
+3- iPhone 7 32Go,P30,0.0011
+3- iPhone 7 32Go,P30 Pro 128Go
+3- iPhone 7 32Go,P40 lite 5G
+3- iPhone 7 32Go,P40 PRO
+3- iPhone 7 32Go,Redmi Note 9,0.0011
+3- iPhone 7 32Go,Redmi Note 9 Pro
+4- iPhone 8 64Go,FIND X2 NEO,0.0011
+4- iPhone 8 64Go,Galaxy A41
+4- iPhone 8 64Go,Galaxy Note 10 Lite
+4- iPhone 8 64Go,Galaxy Note20,0.0021
+4- iPhone 8 64Go,Galaxy Note20 5G
+4- iPhone 8 64Go,Galaxy Note20 Ultra 5G
+4- iPhone 8 64Go,Galaxy S10 128Go,0.0011
+4- iPhone 8 64Go,Galaxy S20
+4- iPhone 8 64Go,Galaxy S20 5G,0.0011
+4- iPhone 8 64Go,Galaxy S20 FE,0.0011
+4- iPhone 8 64Go,Galaxy S20 FE 5G
+4- iPhone 8 64Go,Galaxy S20 Ultra 5G
+4- iPhone 8 64Go,Galaxy S20+
+4- iPhone 8 64Go,Galaxy S20+ 5G
+4- iPhone 8 64Go,Galaxy S8
+4- iPhone 8 64Go,Galaxy Z Fold 2
+4- iPhone 8 64Go,iPhone 11 128Go,0.0053
+4- iPhone 8 64Go,iPhone 11 64Go,0.0171
+4- iPhone 8 64Go,iPhone 11 Pro 64Go,0.0075
+4- iPhone 8 64Go,iPhone 11 Pro Max 256Go
+4- iPhone 8 64Go,iPhone 11 Pro Max 64Go
+4- iPhone 8 64Go,iPhone 12 128Go,0.0032
+4- iPhone 8 64Go,iPhone 12 64Go,0.0578
+4- iPhone 8 64Go,iPhone 12 mini 128Go,0.0011
+4- iPhone 8 64Go,iPhone 12 mini 64Go,0.0171
+4- iPhone 8 64Go,iPhone 12 Pro 128Go
+4- iPhone 8 64Go,iPhone 12 Pro 256Go,0.0011
+4- iPhone 8 64Go,iPhone 12 Pro Max 128Go
+4- iPhone 8 64Go,iPhone 8 64Go
+4- iPhone 8 64Go,iPhone SE 2020 64Go,0.0053
+4- iPhone 8 64Go,iPhone XR 128Go
+4- iPhone 8 64Go,iPhone XR 64Go,0.0021
+4- iPhone 8 64Go,Mi 10
+4- iPhone 8 64Go,MI 10 LITE
+4- iPhone 8 64Go,Mi 10T,0.0021
+4- iPhone 8 64Go,Mi 10T Lite
+4- iPhone 8 64Go,MI 10T PRO
+4- iPhone 8 64Go,P30
+4- iPhone 8 64Go,P30 Pro 128Go
+4- iPhone 8 64Go,P40 lite 5G
+4- iPhone 8 64Go,P40 PRO
+4- iPhone 8 64Go,Redmi Note 9
+4- iPhone 8 64Go,Redmi Note 9 Pro
+5- Galaxy S8,FIND X2 NEO,0.0032
+5- Galaxy S8,Galaxy A41
+5- Galaxy S8,Galaxy Note 10 Lite,0.0011
+5- Galaxy S8,Galaxy Note20,0.0032
+5- Galaxy S8,Galaxy Note20 5G,0.0011
+5- Galaxy S8,Galaxy Note20 Ultra 5G,0.0021
+5- Galaxy S8,Galaxy S10 128Go,0.0032
+5- Galaxy S8,Galaxy S20,0.0053
+5- Galaxy S8,Galaxy S20 5G,0.0043
+5- Galaxy S8,Galaxy S20 FE,0.0652
+5- Galaxy S8,Galaxy S20 FE 5G,0.0075
+5- Galaxy S8,Galaxy S20 Ultra 5G,0.0011
+5- Galaxy S8,Galaxy S20+,0.0032
+5- Galaxy S8,Galaxy S20+ 5G
+5- Galaxy S8,Galaxy S8,0.0011
+5- Galaxy S8,Galaxy Z Fold 2
+5- Galaxy S8,iPhone 11 128Go
+5- Galaxy S8,iPhone 11 64Go,0.0011
+5- Galaxy S8,iPhone 11 Pro 64Go
+5- Galaxy S8,iPhone 11 Pro Max 256Go
+5- Galaxy S8,iPhone 11 Pro Max 64Go
+5- Galaxy S8,iPhone 12 128Go
+5- Galaxy S8,iPhone 12 64Go,0.0053
+5- Galaxy S8,iPhone 12 mini 128Go,0.0011
+5- Galaxy S8,iPhone 12 mini 64Go
+5- Galaxy S8,iPhone 12 Pro 128Go
+5- Galaxy S8,iPhone 12 Pro 256Go
+5- Galaxy S8,iPhone 12 Pro Max 128Go
+5- Galaxy S8,iPhone 8 64Go
+5- Galaxy S8,iPhone SE 2020 64Go,0.0011
+5- Galaxy S8,iPhone XR 128Go
+5- Galaxy S8,iPhone XR 64Go
+5- Galaxy S8,Mi 10,0.0011
+5- Galaxy S8,MI 10 LITE,0.0021
+5- Galaxy S8,Mi 10T,0.0064
+5- Galaxy S8,Mi 10T Lite,0.0011
+5- Galaxy S8,MI 10T PRO,0.0011
+5- Galaxy S8,P30
+5- Galaxy S8,P30 Pro 128Go,0.0021
+5- Galaxy S8,P40 lite 5G
+5- Galaxy S8,P40 PRO
+5- Galaxy S8,Redmi Note 9
+5- Galaxy S8,Redmi Note 9 Pro,0.0011
+6- iPhone X 64Go,FIND X2 NEO
+6- iPhone X 64Go,Galaxy A41
+6- iPhone X 64Go,Galaxy Note 10 Lite
+6- iPhone X 64Go,Galaxy Note20,0.0011
+6- iPhone X 64Go,Galaxy Note20 5G,0.0011
+6- iPhone X 64Go,Galaxy Note20 Ultra 5G
+6- iPhone X 64Go,Galaxy S10 128Go
+6- iPhone X 64Go,Galaxy S20
+6- iPhone X 64Go,Galaxy S20 5G
+6- iPhone X 64Go,Galaxy S20 FE,0.0011
+6- iPhone X 64Go,Galaxy S20 FE 5G
+6- iPhone X 64Go,Galaxy S20 Ultra 5G
+6- iPhone X 64Go,Galaxy S20+
+6- iPhone X 64Go,Galaxy S20+ 5G
+6- iPhone X 64Go,Galaxy S8
+6- iPhone X 64Go,Galaxy Z Fold 2
+6- iPhone X 64Go,iPhone 11 128Go,0.0011
+6- iPhone X 64Go,iPhone 11 64Go,0.0011
+6- iPhone X 64Go,iPhone 11 Pro 64Go,0.0053
+6- iPhone X 64Go,iPhone 11 Pro Max 256Go
+6- iPhone X 64Go,iPhone 11 Pro Max 64Go
+6- iPhone X 64Go,iPhone 12 128Go,0.0043
+6- iPhone X 64Go,iPhone 12 64Go,0.0481
+6- iPhone X 64Go,iPhone 12 mini 128Go,0.0021
+6- iPhone X 64Go,iPhone 12 mini 64Go,0.0086
+6- iPhone X 64Go,iPhone 12 Pro 128Go,0.0021
+6- iPhone X 64Go,iPhone 12 Pro 256Go
+6- iPhone X 64Go,iPhone 12 Pro Max 128Go
+6- iPhone X 64Go,iPhone 8 64Go
+6- iPhone X 64Go,iPhone SE 2020 64Go
+6- iPhone X 64Go,iPhone XR 128Go
+6- iPhone X 64Go,iPhone XR 64Go
+6- iPhone X 64Go,Mi 10
+6- iPhone X 64Go,MI 10 LITE
+6- iPhone X 64Go,Mi 10T
+6- iPhone X 64Go,Mi 10T Lite
+6- iPhone X 64Go,MI 10T PRO
+6- iPhone X 64Go,P30
+6- iPhone X 64Go,P30 Pro 128Go,0.0011
+6- iPhone X 64Go,P40 lite 5G
+6- iPhone X 64Go,P40 PRO
+6- iPhone X 64Go,Redmi Note 9
+6- iPhone X 64Go,Redmi Note 9 Pro
+7- Galaxy S9+,FIND X2 NEO
+7- Galaxy S9+,Galaxy A41
+7- Galaxy S9+,Galaxy Note 10 Lite
+7- Galaxy S9+,Galaxy Note20,0.0096
+7- Galaxy S9+,Galaxy Note20 5G,0.0043
+7- Galaxy S9+,Galaxy Note20 Ultra 5G,0.0053
+7- Galaxy S9+,Galaxy S10 128Go
+7- Galaxy S9+,Galaxy S20
+7- Galaxy S9+,Galaxy S20 5G,0.0032
+7- Galaxy S9+,Galaxy S20 FE,0.0225
+7- Galaxy S9+,Galaxy S20 FE 5G,0.0043
+7- Galaxy S9+,Galaxy S20 Ultra 5G
+7- Galaxy S9+,Galaxy S20+,0.0053
+7- Galaxy S9+,Galaxy S20+ 5G
+7- Galaxy S9+,Galaxy S8
+7- Galaxy S9+,Galaxy Z Fold 2
+7- Galaxy S9+,iPhone 11 128Go
+7- Galaxy S9+,iPhone 11 64Go
+7- Galaxy S9+,iPhone 11 Pro 64Go
+7- Galaxy S9+,iPhone 11 Pro Max 256Go
+7- Galaxy S9+,iPhone 11 Pro Max 64Go
+7- Galaxy S9+,iPhone 12 128Go,0.0011
+7- Galaxy S9+,iPhone 12 64Go,0.0053
+7- Galaxy S9+,iPhone 12 mini 128Go
+7- Galaxy S9+,iPhone 12 mini 64Go,0.0021
+7- Galaxy S9+,iPhone 12 Pro 128Go
+7- Galaxy S9+,iPhone 12 Pro 256Go
+7- Galaxy S9+,iPhone 12 Pro Max 128Go
+7- Galaxy S9+,iPhone 8 64Go
+7- Galaxy S9+,iPhone SE 2020 64Go
+7- Galaxy S9+,iPhone XR 128Go
+7- Galaxy S9+,iPhone XR 64Go
+7- Galaxy S9+,Mi 10
+7- Galaxy S9+,MI 10 LITE
+7- Galaxy S9+,Mi 10T
+7- Galaxy S9+,Mi 10T Lite
+7- Galaxy S9+,MI 10T PRO
+7- Galaxy S9+,P30
+7- Galaxy S9+,P30 Pro 128Go,0.0021
+7- Galaxy S9+,P40 lite 5G
+7- Galaxy S9+,P40 PRO,0.0011
+7- Galaxy S9+,Redmi Note 9
+7- Galaxy S9+,Redmi Note 9 Pro
+8- Galaxy S10 128Go,FIND X2 NEO
+8- Galaxy S10 128Go,Galaxy A41
+8- Galaxy S10 128Go,Galaxy Note 10 Lite,0.0011
+8- Galaxy S10 128Go,Galaxy Note20,0.0021
+8- Galaxy S10 128Go,Galaxy Note20 5G,0.0043
+8- Galaxy S10 128Go,Galaxy Note20 Ultra 5G
+8- Galaxy S10 128Go,Galaxy S10 128Go,0.0011
+8- Galaxy S10 128Go,Galaxy S20
+8- Galaxy S10 128Go,Galaxy S20 5G,0.0096
+8- Galaxy S10 128Go,Galaxy S20 FE,0.0171
+8- Galaxy S10 128Go,Galaxy S20 FE 5G,0.0011
+8- Galaxy S10 128Go,Galaxy S20 Ultra 5G
+8- Galaxy S10 128Go,Galaxy S20+,0.0011
+8- Galaxy S10 128Go,Galaxy S20+ 5G
+8- Galaxy S10 128Go,Galaxy S8
+8- Galaxy S10 128Go,Galaxy Z Fold 2,0.0011
+8- Galaxy S10 128Go,iPhone 11 128Go,0.0011
+8- Galaxy S10 128Go,iPhone 11 64Go,0.0021
+8- Galaxy S10 128Go,iPhone 11 Pro 64Go
+8- Galaxy S10 128Go,iPhone 11 Pro Max 256Go
+8- Galaxy S10 128Go,iPhone 11 Pro Max 64Go
+8- Galaxy S10 128Go,iPhone 12 128Go,0.0011
+8- Galaxy S10 128Go,iPhone 12 64Go,0.0086
+8- Galaxy S10 128Go,iPhone 12 mini 128Go
+8- Galaxy S10 128Go,iPhone 12 mini 64Go,0.0011
+8- Galaxy S10 128Go,iPhone 12 Pro 128Go
+8- Galaxy S10 128Go,iPhone 12 Pro 256Go
+8- Galaxy S10 128Go,iPhone 12 Pro Max 128Go
+8- Galaxy S10 128Go,iPhone 8 64Go
+8- Galaxy S10 128Go,iPhone SE 2020 64Go
+8- Galaxy S10 128Go,iPhone XR 128Go
+8- Galaxy S10 128Go,iPhone XR 64Go
+8- Galaxy S10 128Go,Mi 10
+8- Galaxy S10 128Go,MI 10 LITE
+8- Galaxy S10 128Go,Mi 10T,0.0021
+8- Galaxy S10 128Go,Mi 10T Lite
+8- Galaxy S10 128Go,MI 10T PRO
+8- Galaxy S10 128Go,P30
+8- Galaxy S10 128Go,P30 Pro 128Go,0.0011
+8- Galaxy S10 128Go,P40 lite 5G
+8- Galaxy S10 128Go,P40 PRO
+8- Galaxy S10 128Go,Redmi Note 9
+8- Galaxy S10 128Go,Redmi Note 9 Pro
+9- iPhone 11 64Go,FIND X2 NEO
+9- iPhone 11 64Go,Galaxy A41
+9- iPhone 11 64Go,Galaxy Note 10 Lite
+9- iPhone 11 64Go,Galaxy Note20
+9- iPhone 11 64Go,Galaxy Note20 5G
+9- iPhone 11 64Go,Galaxy Note20 Ultra 5G
+9- iPhone 11 64Go,Galaxy S10 128Go
+9- iPhone 11 64Go,Galaxy S20
+9- iPhone 11 64Go,Galaxy S20 5G
+9- iPhone 11 64Go,Galaxy S20 FE
+9- iPhone 11 64Go,Galaxy S20 FE 5G
+9- iPhone 11 64Go,Galaxy S20 Ultra 5G
+9- iPhone 11 64Go,Galaxy S20+
+9- iPhone 11 64Go,Galaxy S20+ 5G
+9- iPhone 11 64Go,Galaxy S8
+9- iPhone 11 64Go,Galaxy Z Fold 2
+9- iPhone 11 64Go,iPhone 11 128Go,0.0011
+9- iPhone 11 64Go,iPhone 11 64Go
+9- iPhone 11 64Go,iPhone 11 Pro 64Go,0.0021
+9- iPhone 11 64Go,iPhone 11 Pro Max 256Go
+9- iPhone 11 64Go,iPhone 11 Pro Max 64Go,0.0021
+9- iPhone 11 64Go,iPhone 12 128Go,0.0011
+9- iPhone 11 64Go,iPhone 12 64Go,0.0332
+9- iPhone 11 64Go,iPhone 12 mini 128Go
+9- iPhone 11 64Go,iPhone 12 mini 64Go,0.0021
+9- iPhone 11 64Go,iPhone 12 Pro 128Go,0.0011
+9- iPhone 11 64Go,iPhone 12 Pro 256Go
+9- iPhone 11 64Go,iPhone 12 Pro Max 128Go
+9- iPhone 11 64Go,iPhone 8 64Go
+9- iPhone 11 64Go,iPhone SE 2020 64Go
+9- iPhone 11 64Go,iPhone XR 128Go
+9- iPhone 11 64Go,iPhone XR 64Go
+9- iPhone 11 64Go,Mi 10
+9- iPhone 11 64Go,MI 10 LITE
+9- iPhone 11 64Go,Mi 10T,0.0021
+9- iPhone 11 64Go,Mi 10T Lite
+9- iPhone 11 64Go,MI 10T PRO
+9- iPhone 11 64Go,P30
+9- iPhone 11 64Go,P30 Pro 128Go,0.0011
+9- iPhone 11 64Go,P40 lite 5G
+9- iPhone 11 64Go,P40 PRO
+9- iPhone 11 64Go,Redmi Note 9
+9- iPhone 11 64Go,Redmi Note 9 Pro
+10- iPhone 6s 32Go,FIND X2 NEO
+10- iPhone 6s 32Go,Galaxy A41
+10- iPhone 6s 32Go,Galaxy Note 10 Lite
+10- iPhone 6s 32Go,Galaxy Note20
+10- iPhone 6s 32Go,Galaxy Note20 5G,0.0011
+10- iPhone 6s 32Go,Galaxy Note20 Ultra 5G
+10- iPhone 6s 32Go,Galaxy S10 128Go
+10- iPhone 6s 32Go,Galaxy S20
+10- iPhone 6s 32Go,Galaxy S20 5G,0.0011
+10- iPhone 6s 32Go,Galaxy S20 FE,0.0021
+10- iPhone 6s 32Go,Galaxy S20 FE 5G,0.0011
+10- iPhone 6s 32Go,Galaxy S20 Ultra 5G
+10- iPhone 6s 32Go,Galaxy S20+
+10- iPhone 6s 32Go,Galaxy S20+ 5G
+10- iPhone 6s 32Go,Galaxy S8
+10- iPhone 6s 32Go,Galaxy Z Fold 2
+10- iPhone 6s 32Go,iPhone 11 128Go,0.0011
+10- iPhone 6s 32Go,iPhone 11 64Go,0.0053
+10- iPhone 6s 32Go,iPhone 11 Pro 64Go
+10- iPhone 6s 32Go,iPhone 11 Pro Max 256Go
+10- iPhone 6s 32Go,iPhone 11 Pro Max 64Go
+10- iPhone 6s 32Go,iPhone 12 128Go
+10- iPhone 6s 32Go,iPhone 12 64Go,0.0096
+10- iPhone 6s 32Go,iPhone 12 mini 128Go,0.0011
+10- iPhone 6s 32Go,iPhone 12 mini 64Go,0.0064
+10- iPhone 6s 32Go,iPhone 12 Pro 128Go
+10- iPhone 6s 32Go,iPhone 12 Pro 256Go
+10- iPhone 6s 32Go,iPhone 12 Pro Max 128Go
+10- iPhone 6s 32Go,iPhone 8 64Go
+10- iPhone 6s 32Go,iPhone SE 2020 64Go,0.0096
+10- iPhone 6s 32Go,iPhone XR 128Go,0.0011
+10- iPhone 6s 32Go,iPhone XR 64Go,0.0011
+10- iPhone 6s 32Go,Mi 10,0.0011
+10- iPhone 6s 32Go,MI 10 LITE
+10- iPhone 6s 32Go,Mi 10T,0.0011
+10- iPhone 6s 32Go,Mi 10T Lite
+10- iPhone 6s 32Go,MI 10T PRO
+10- iPhone 6s 32Go,P30,0.0021
+10- iPhone 6s 32Go,P30 Pro 128Go
+10- iPhone 6s 32Go,P40 lite 5G
+10- iPhone 6s 32Go,P40 PRO
+10- iPhone 6s 32Go,Redmi Note 9
+10- iPhone 6s 32Go,Redmi Note 9 Pro
